@@ -1,0 +1,3 @@
+# US tax scripts
+
+A collection of scripts written to ease generation of my tax return. These should **not** be considered complete nor correct, and **will not** cover all filing requirements or edge cases. I take **zero** responsibility for incorrect tax forms due to use of this software, and if used, all outputs should be manually checked before filing. I do not aim to make this software generally usable - any documentation provided should not be assumed to be correct or up-to-date, it is solely for my benefit. Please **do not** file issues for how to use the scripts. This software is distributed "AS IS", WITHOUT WARRANTIES OR CONDITIONS, either express or implied.
